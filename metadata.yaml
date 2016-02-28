@@ -1,0 +1,29 @@
+_repo: Bessie-Bradford-s-Prize_6569
+creator:
+  author:
+    agent_name: Mathews, Joanna H. (Joanna Hooe)
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '2089'
+    url: http://www.gutenberg.org/2009/agents/2089
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Police -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Letters -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Prizes (Property captured at sea) -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: Bessie Bradford's Prize
+url: http://www.gutenberg.org/ebooks/6569
